@@ -5,6 +5,12 @@
 
 Κύριος στόχος της εφαρμογής είναι η διευκόλυνση της εκμάθησης βασικών ξένων φράσεων μέσω μιας διαδραστικής και φιλικής προς τον χρήστη διεπαφής (GUI). Ο χρήστης έχει τη δυνατότητα να πλοηγηθεί σε διαφορετικές θεματικές ενότητες, να επιλέξει τη γλώσσα της προτιμήσεώς του και να αξιολογήσει τις γνώσεις του μέσω ενός δυναμικού συστήματος Quiz.
 
+<img width="400" height="400" alt="Στιγμιότυπο οθόνης 2026-06-10 045509" src="https://github.com/user-attachments/assets/4802e274-7fd3-48d9-ab66-a40d2d23356f" />
+<img width="400" height="400" alt="Στιγμιότυπο οθόνης 2026-06-10 045509" src="https://github.com/user-attachments/assets/4802e274-7fd3-48d9-ab66-a40d2d23356f" />
+<img width="400" height="400" alt="Στιγμιότυπο οθόνης 2026-06-10 045539" src="https://github.com/user-attachments/assets/c3cffcdb-07d8-46c0-9200-2c708d1e4905" />
+<img width="400" height="400" alt="Στιγμιότυπο οθόνης 2026-06-10 045607" src="https://github.com/user-attachments/assets/d385026a-6497-4270-a626-d6d78f41a8be" />
+
+
 ---
 
 ## Κύριες Λειτουργίες
@@ -34,7 +40,7 @@ AppGiaGlwsses/
 │
 ├── README.md          
 ├── Report.docx           
-├── pom.xml                 ]
+├── pom.xml                
 ├── nbactions.xml           
 ├── .gitignore             
 │
@@ -58,4 +64,14 @@ AppGiaGlwsses/
 │   │           ├── secondary.fxml
 │   │           └── quiz.fxml
 │   │
-│   └── test/               # Κατάλογος για Unit Tests
+│   └── test/              
+```
+
+---
+## Author
+
+### KYRANAS RALLIS-PANAGIOTIS
+
+- GitHub: [@Panagiotis2929](https://github.com/Panagiotis2929)
+
+---
