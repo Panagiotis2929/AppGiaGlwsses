@@ -1,2 +1,0 @@
-# AppGiaGlwsses
-JavaFX Educational Application
